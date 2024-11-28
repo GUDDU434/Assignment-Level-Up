@@ -1,0 +1,151 @@
+{
+  "header": {
+    "logo": "/images/logo1.png",
+    "nav_buttons": ""
+  },
+
+  "first": {
+    "img": "/images/hero.png",
+    "content": {
+      "before_highlight": "Practice, learn, and excel like a",
+      "highlight": "Pro",
+      "after_highlight": "",
+      "description": "Elevate your technical interview skills with our all-in-one platform.",
+      "btn_text": "Get started for FREE",
+      "pointers": [""]
+    }
+  },
+
+  "second": {
+    "img": "",
+    "content": {
+      "title": "",
+      "description": "",
+      "btn_text": "",
+      "pointers": [""]
+    }
+  },
+  "third": {
+    "img": "/images/interview.png",
+    "content": {
+      "before_highlight": "",
+      "highlight": "Interview",
+      "after_highlight": "recordings",
+      "description": "Learn from the best with our library of interview recordings conducted by top interviewers from leading companies. ",
+      "btn_text": "",
+      "pointers": [
+        {
+          "before_highlight": "Master your interview skills by",
+          "highlight": "practicing the questions",
+          "after_highlight": "asked by these top companies."
+        },
+        {
+          "before_highlight": "Unlock your competitive advantage by understanding",
+          "highlight": "interview feedback.",
+          "after_highlight": ""
+        }
+      ]
+    }
+  },
+  "fourth": {
+    "img": "/images/quiz.png",
+    "content": {
+      "before_highlight": "",
+      "highlight": "Daily",
+      "after_highlight": "quiz",
+      "description": "Answer the daily question to stay on top of your interview preparation.",
+      "btn_text": "",
+      "pointers": [
+        {
+          "before_highlight": "",
+          "highlight": "Challenge yourself",
+          "after_highlight": "with a daily quiz that tests your technical knowledge and problem-solving skills"
+        },
+        {
+          "before_highlight": "",
+          "highlight": "Keep your skills sharp",
+          "after_highlight": "with by regularly engaging in quick, bite-sized coding challenges."
+        }
+      ]
+    }
+  },
+  "fifth": {
+    "img": "",
+    "content": {
+      "before_highlight": "How",
+      "highlight": "Levels",
+      "after_highlight": "workon LevelUp",
+      "description": "Elevate your level by practicing, improving your skills and through Technical Rounds. Unlock job opportunities that match your level and skills.",
+      "btn_text": "",
+      "pointers": [""],
+      "steps": [
+        {
+          "icon": "/images/fire.png",
+          "title": "Streak",
+          "description": "Build a habit of practicing everyday to earn rewards"
+        },
+        {
+          "icon": "/images/lu-icon.png",
+          "title": "Steps",
+          "description": "Gain steps through practice by daily quiz or questions"
+        },
+        {
+          "icon": "/images/lightning-bolt.png",
+          "title": "Level",
+          "description": "100 Steps = 1 Level. Jump in levels quickly through Technical Rounds. "
+        }
+      ]
+    }
+  },
+  "sixth": {
+    "img": "",
+    "content": {
+      "before_highlight": "Join for",
+      "highlight": "FREE",
+      "after_highlight": "today",
+      "description": "Elevate your interview skills with practice-based learning and gain insights from expert mock interviews. Supercharge your interview game with LevelUp today!",
+      "btn_text": "Get started for FREE",
+      "pointers": [""]
+    }
+  },
+
+  "footer": {
+    "social_media": [
+      "twitter.com",
+      "facebook.com",
+      "instagram.com",
+      "linkedin.com",
+      "youtube.com"
+    ],
+    "title": "/images/logo2.png",
+    "description": "Elevate your Job Search & Boost Your Chances of Landing Top-Tier Company Interviews with Expert Guidance from Industry Evaluators",
+    "links": [
+      {
+        "link_name": "Plans",
+        "url": "#"
+      },
+      {
+        "link_name": "Become an Expert",
+        "url": "#"
+      },
+      {
+        "link_name": "Hire via LevelUp",
+        "url": "#"
+      }
+    ],
+    "company": [
+      {
+        "link_name": "About",
+        "url": "#"
+      },
+      {
+        "link_name": "Terms & Conditions",
+        "url": "#"
+      },
+      {
+        "link_name": "Privacy Policy",
+        "url": "#"
+      }
+    ]
+  }
+}
