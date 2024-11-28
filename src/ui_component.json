@@ -17,12 +17,25 @@
   },
 
   "second": {
-    "img": "",
+    "img": "/images/practice.png",
     "content": {
-      "title": "",
-      "description": "",
+      "before_highlight": "",
+      "highlight": "Practice",
+      "after_highlight": "your skills",
+      "description": "Diverse practice problems of varying difficulty levels, as encountered in real job interviews. ",
       "btn_text": "",
-      "pointers": [""]
+      "pointers": [
+        {
+          "before_highlight": "Solve a ",
+          "highlight": "diverse range of practice questions",
+          "after_highlight": "to enhance your coding and problem-solving abilities."
+        },
+        {
+          "before_highlight": "Familiarize yourself with common interview topics and algorithms through ",
+          "highlight": "hands-on practice.",
+          "after_highlight": ""
+        }
+      ]
     }
   },
   "third": {

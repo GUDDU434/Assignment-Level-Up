@@ -6,6 +6,7 @@ import InterviewRecording from "./components/InterviewRecording";
 import Joinforfree from "./components/Joinforfree";
 import LevelUpsection from "./components/LevelUpsection";
 import Navbar from "./components/Navbar";
+import Skill from "./components/Skill";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <div style={{ width: "100%", background: "#1F3343" }}>
         <Navbar />
         <Hero />
+        <Skill />
         <InterviewRecording />
         <Dailyquiz />
         <LevelUpsection />
